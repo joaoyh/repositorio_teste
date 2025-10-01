@@ -2,7 +2,7 @@
 # Me chamo João Yhago!
 ## Bem vindo ao meu perfil no GitHub 👋
 
-**CurseOfCiberSegurança/joaoyh** é um repositório ✨ _especial_ ✨ 
+**joaoyh/joaoyh** é um repositório ✨ _especial_ ✨ 
 
 - 🔭 Atualmente estou trabalhando como estagiario no ensino medio, no Departamento de Transito do DF...
 - 🌱 Atualmente estou aprendendo Segurança Cibernetica no nivel tecnico...
